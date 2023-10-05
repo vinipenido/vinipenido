@@ -14,10 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-{
-    "recommendations": [
-        "yzhang.markdown-all-in-one",
-        "esbenp.prettier-vscode",
-        "dbaeumer.vscode-eslint"
-    ]
-}
+
+
