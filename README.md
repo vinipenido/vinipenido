@@ -18,3 +18,5 @@
   <a href="https://www.linkedin.com/in/vinicius-henrique-6b05b124a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<div>https://camo.githubusercontent.com/40d2c59e3d72b715f1b2182577ccff8076abcec117945adcc6a97a54caff596b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6a6f616f34787a2673686f775f69636f6e733d74727565267468656d653d707275737369616e</div>
