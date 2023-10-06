@@ -16,13 +16,8 @@
 <div> 
   <a href="https://instagram.com/v1ni_henrique" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-henrique-6b05b124a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinipenido&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinipenido&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="display: inline_block"><br>
-  
-<src align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinipenido&show_icons=true&theme=dark)">
-  
-<src align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinipenido&layout=donut)](https://github.com/anuraghazra/github-readme-stats)">
 
-</div>
