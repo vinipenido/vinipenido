@@ -18,6 +18,6 @@
   <a href="https://www.linkedin.com/in/vinicius-henrique-6b05b124a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinipenido&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinipenido&layout=donut)](https://github.com/vinipenido/github-readme-stats)
 
 
