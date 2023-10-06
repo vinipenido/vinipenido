@@ -21,8 +21,8 @@
 
 <div style="display: inline_block"><br>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinipenido&show_icons=true&theme=dark)
+<img align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinipenido&show_icons=true&theme=dark)">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinipenido&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinipenido&layout=donut)](https://github.com/anuraghazra/github-readme-stats)">
 
 </div>
