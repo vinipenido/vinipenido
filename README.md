@@ -127,4 +127,4 @@ Quer automatizar algum processo ou construir um agente de IA para sua empresa?
 
 📧 vinipenido312@gmail.com  
 📱 (35) 9 9831-9379  
-💼 [LinkedIn](https://linkedin.com/in/vinicius-henrique)
+💼 [LinkedIn](www.linkedin.com/in/viniciushenrique)
