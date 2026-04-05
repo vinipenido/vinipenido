@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:vinipenido312@gmail.com">vinipenido312@gmail.com</a> •
-  <a href="https://linkedin.com/in/vinicius-henrique">LinkedIn</a> •
+  <a href="www.linkedin.com/in/viniciushenrique">LinkedIn</a> •
   (35) 9 9831-9379
 </p>
 
