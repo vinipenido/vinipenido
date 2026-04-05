@@ -17,7 +17,7 @@
 
 Sou especializado em criar agentes de IA e automações que resolvem problemas reais de negócio. Tenho projetos em produção atendendo consultórios médicos, operadoras de saúde e empresas de vendas — sistemas que trabalham 24h por dia sem intervenção humana.
 
-Atualmente cursando **Ciência da Computação na PUC Minas** e atuando como **Desenvolvedor de IA na TOP IA**.
+Atualmente cursando **Ciência da Computação na PUC Minas** e atuei como **Desenvolvedor de IA na TOP IA**.
 
 ---
 
