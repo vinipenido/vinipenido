@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:vinipenido312@gmail.com">vinipenido312@gmail.com</a> •
-  <a href="www.linkedin.com/in/viniciushenrique">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/viniciushenrique">LinkedIn</a> •
   (35) 9 9831-9379
 </p>
 
@@ -127,4 +127,4 @@ Quer automatizar algum processo ou construir um agente de IA para sua empresa?
 
 📧 vinipenido312@gmail.com  
 📱 (35) 9 9831-9379  
-💼 [LinkedIn](www.linkedin.com/in/viniciushenrique)
+💼 [LinkedIn](https://www.linkedin.com/in/viniciushenrique)
