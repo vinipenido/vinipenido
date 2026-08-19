@@ -114,13 +114,13 @@ Sistema completo com três agentes trabalhando em conjunto:
 
 ## 💼 Experiência
  
-**Implantação de Sistemas Junior** · Pipelora · fev 2026 – mai 2026 · Poços de Caldas, MG (no local)
+**Implantação de Sistemas Junior** · Pipelora · fev 2026 – mai 2026 · Poços de Caldas, MG
 - Desenvolvimento de funções Lambda em Node.js para automação de agentes de inteligência artificial na plataforma Pipelora
 - Especializado em criar soluções serverless que integram sistemas diversos, incluindo aplicações legadas sem API, utilizando Puppeteer para automação browser
 - Implementações que otimizam processos e eliminam tarefas repetitivas, melhorando significativamente a eficiência operacional
 
   
-**Desenvolvedor de Agentes de I.A e Automações** · Top IA Empresas · jan 2025 – fev 2026 · Poços de Caldas, MG (no local)
+**Desenvolvedor de Agentes de I.A e Automações** · Top IA Empresas · jan 2025 – fev 2026 · Poços de Caldas, MG
 - Desenvolvimento de automações e agentes de inteligência artificial com n8n
 - Implementação de workflows personalizados que conectam aplicações, automatizam tarefas repetitivas e integram modelos de IA para solucionar problemas de negócio de forma escalável
 <br>
