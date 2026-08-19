@@ -113,16 +113,19 @@ Sistema completo com três agentes trabalhando em conjunto:
 <br>
 
 ## 💼 Experiência
-
-**Desenvolvedor de IA e Automação** · TOP IA · jun 2025 – presente
-- Sistemas multiagentes em produção atendendo múltiplos clientes simultaneamente
-- Integração de LLMs, bases vetoriais, CRMs e APIs em arquiteturas escaláveis
-- Suporte técnico: diagnóstico de falhas, ajuste de prompts e monitoramento de execuções
-
+ 
+**Implantação de Sistemas Junior** · Pipelora · fev 2026 – mai 2026 · Poços de Caldas, MG (no local)
+- Desenvolvimento de funções Lambda em Node.js para automação de agentes de inteligência artificial na plataforma Pipelora
+- Especializado em criar soluções serverless que integram sistemas diversos, incluindo aplicações legadas sem API, utilizando Puppeteer para automação browser
+- Implementações que otimizam processos e eliminam tarefas repetitivas, melhorando significativamente a eficiência operacional
+**Desenvolvedor de Agentes de I.A e Automações** · Top IA Empresas · jan 2025 – fev 2026 · Poços de Caldas, MG (no local)
+- Desenvolvimento de automações e agentes de inteligência artificial com n8n
+- Implementação de workflows personalizados que conectam aplicações, automatizam tarefas repetitivas e integram modelos de IA para solucionar problemas de negócio de forma escalável
 <br>
 
 ## 📬 Contato
-
+ 
+ 
 📧 [vinipenido312@gmail.com](mailto:vinipenido312@gmail.com)
 📱 (35) 9 9831-9379
 💼 [LinkedIn](https://www.linkedin.com/in/viniciushenrique)
