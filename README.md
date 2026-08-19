@@ -60,7 +60,7 @@ Atualmente cursando **Ciência da Computação na PUC Minas** e atuei como **Des
 
 <br>
 
-## 🚀 Projetos em Produção
+## 🚀 Projetos
 
 ### Sistema de Vendas Multiagente
 > n8n · GPT-4.1 · GPT-5 · Supabase · Chatwoot · WhatsApp API
@@ -126,8 +126,6 @@ Sistema completo com três agentes trabalhando em conjunto:
 <br>
 
 ## 📬 Contato
-
-Quer automatizar algum processo ou construir um agente de IA para sua empresa?
 
 📧 [vinipenido312@gmail.com](mailto:vinipenido312@gmail.com)
 📱 (35) 9 9831-9379
