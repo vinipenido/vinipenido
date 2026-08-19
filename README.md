@@ -2,10 +2,6 @@
 <h3 align="center">Desenvolvedor de Agentes de IA & Automações</h3>
 
 <p align="center">
-  Construo sistemas multiagentes e automações inteligentes para empresas — do lead ao fechamento, do diagnóstico ao agendamento.
-</p>
-
-<p align="center">
   <a href="mailto:vinipenido312@gmail.com">vinipenido312@gmail.com</a> •
   <a href="https://www.linkedin.com/in/viniciushenrique">LinkedIn</a> •
   (35) 9 9831-9379
