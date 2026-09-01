@@ -138,10 +138,3 @@ Sistema completo com três agentes trabalhando em conjunto:
 - Integração de APIs para automação de atendimento, notificações e operações personalizadas
 
 <br>
-
-## 📬 Contato
-
-📧 [vinipenido312@gmail.com](mailto:vinipenido312@gmail.com)
-📱 (35) 9 9831-9379
-💼 [LinkedIn](https://www.linkedin.com/in/viniciushenrique)
-💻 [GitHub](https://github.com/vinipenido)
