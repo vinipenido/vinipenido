@@ -12,11 +12,9 @@
 
 ## 🧑‍💻 Sobre mim
 
-Estou cursando **Ciência da Computação na PUC Minas**, com foco em **Java e Spring Boot** para atuação como **Desenvolvedor Backend**. Tenho conhecimento também em HTML, CSS, JavaScript, React, Python, C, C# e .NET, além de banco de dados MySQL, e já participei de projetos acadêmicos envolvendo análise de dados e visualizações com Grafana.
+Estou cursando **Ciência da Computação na PUC Minas**, com foco em **Java e Spring Boot** para atuação como **Desenvolvedor Backend**. Tenho conhecimento também em JavaScript/Node.js e Python, além de banco de dados PostgreSQL, e já participei de projetos acadêmicos envolvendo análise de dados.
 
-Antes de migrar para o backend Java, atuei por mais de um ano criando **agentes de IA e automações em produção** — sistemas que hoje atendem consultórios médicos, operadoras de saúde e empresas de vendas 24h por dia sem intervenção humana. Também desenvolvi funções serverless (Lambda) em Node.js, usando Puppeteer para integrar sistemas corporativos fechados, sem API pública.
-
-Hoje busco oportunidades como **Desenvolvedor Backend Java**, aplicando essa bagagem prática em automação, integração de sistemas e IA à construção de sistemas corporativos robustos.
+Antes de migrar para o backend Java, atuei por mais de um ano criando **agentes de IA e automações em produção** sistemas que hoje atendem consultórios médicos, operadoras de saúde e empresas de vendas 24h por dia sem intervenção humana. Também desenvolvi funções serverless (Lambda) em Node.js, usando Puppeteer para integrar sistemas corporativos fechados, sem API pública.
 
 <br>
 
@@ -26,23 +24,15 @@ Hoje busco oportunidades como **Desenvolvedor Backend Java**, aplicando essa bag
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Banco de Dados**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **IA, Automação & Cloud**
 
@@ -51,7 +41,7 @@ Hoje busco oportunidades como **Desenvolvedor Backend Java**, aplicando essa bag
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![LangChain4j](https://img.shields.io/badge/LangChain4j-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 **Ferramentas**
 
@@ -61,6 +51,26 @@ Hoje busco oportunidades como **Desenvolvedor Backend Java**, aplicando essa bag
 <br>
 
 ## 🚀 Projetos
+
+### CodeMentor.java — Agente de IA para Ensino de Programação
+> Java 21 · Spring Boot 4 · LangChain4j · Claude · pgvector
+
+- Agente de IA que ensina programação priorizando explicação didática em vez de resposta pronta
+- RAG sobre base de livros técnicos: ingestão de PDFs, embeddings locais (ONNX, sem custo de API) e busca semântica
+- Memória de conversa por aluno, reformulação de perguntas de follow-up com base no histórico
+- Endpoints protegidos com JWT, documentação via Swagger/OpenAPI, ambiente 100% Dockerizado
+
+---
+
+### Claude Clone — Chat com Streaming
+> Java 25 · Spring Boot 4.1 · PostgreSQL · API da Anthropic
+
+- Clone simplificado do Claude com respostas em streaming em tempo real via SSE
+- Histórico de conversas persistido em PostgreSQL, contexto completo mantido entre mensagens
+- Arquitetura em camadas (Controller → Service → Repository), DTOs desacoplando modelo de banco da API
+- Tratamento de erros centralizado e padronizado
+
+---
 
 ### Catálogo de Filmes — API REST
 > Java · Spring Boot · PostgreSQL · JWT · Swagger
@@ -136,5 +146,3 @@ Sistema completo com três agentes trabalhando em conjunto:
 - Desenvolvimento de agentes de IA e automação de fluxos inteligentes com n8n, Make e Webhooks
 - Criação de soluções voltadas à consulta, tratamento e retorno automatizado de dados a partir de bancos de dados e planilhas
 - Integração de APIs para automação de atendimento, notificações e operações personalizadas
-
-<br>
