@@ -14,7 +14,7 @@
 
 Estou cursando **Ciência da Computação na PUC Minas**, com foco em **Java e Spring Boot** para atuação como **Desenvolvedor Backend**. Tenho conhecimento também em JavaScript/Node.js e Python, além de banco de dados PostgreSQL, e já participei de projetos acadêmicos envolvendo análise de dados.
 
-Antes de migrar para o backend Java, atuei por mais de um ano criando **agentes de IA e automações em produção** sistemas que hoje atendem consultórios médicos, operadoras de saúde e empresas de vendas 24h por dia sem intervenção humana. Também desenvolvi funções serverless (Lambda) em Node.js, usando Puppeteer para integrar sistemas corporativos fechados, sem API pública.
+Já atuei por mais de um ano criando **agentes de IA e automações em produção** sistemas que hoje atendem consultórios médicos, operadoras de saúde e empresas de vendas 24h por dia sem intervenção humana. Também desenvolvi funções serverless (Lambda) em Node.js, usando Puppeteer, Web-Scraping e Express para integrar sistemas corporativos fechados, sem API pública.
 
 <br>
 
