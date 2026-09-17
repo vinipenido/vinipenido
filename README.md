@@ -110,14 +110,6 @@ Sistema completo com três agentes trabalhando em conjunto:
 
 ---
 
-### Chat RAG com Base de Estoque
-> n8n · OpenAI Embeddings · Supabase Vetorial · Discord
-
-- Agente conversacional com memória de histórico e RAG sobre base de estoque
-- Integrado ao Discord, com suporte a threads e modelo de raciocínio (think) antes de responder
-
----
-
 ### Relatório Automático de Representante
 > n8n · PostgreSQL
 
