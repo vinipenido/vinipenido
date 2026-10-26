@@ -127,13 +127,6 @@ As automações que construí para clientes rodavam em produção, dentro das in
 
 ---
 
-### 🎙️ API de Orçamento por Voz: Spring AI
-> Java · Spring Boot · Spring AI
-
-Registrar gastos preenchendo formulário dá trabalho, e muita gente desiste no meio do caminho. Esta API recebe **comandos de voz** e usa **Spring AI** para interpretar a fala e transformá-la em operações de orçamento no back-end Java.
-
-<br>
-
 ## 🏭 Sistemas que construí em produção
 
 <details>
