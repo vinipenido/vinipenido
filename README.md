@@ -83,6 +83,7 @@ Cada vez mais estudantes aprendem programação conversando com IA. Só que um L
 - Endpoints protegidos com JWT, documentação Swagger/OpenAPI e ambiente 100% Dockerizado
 
 🔗 [Repositório](https://github.com/vinipenido/codementor-java)
+
 ---
 
 ### 💬 Claude Clone: API de chat com IA em streaming
