@@ -125,7 +125,6 @@ As automações que construí para clientes rodavam em produção, dentro das in
 
 🔗 [Repositório](https://github.com/vinipenido/n8n-automations)
 
----
 
 ## 🏭 Sistemas que construí em produção
 
