@@ -1,15 +1,11 @@
 <h1 align="center">Vinicius Henrique</h1>
-<h3 align="center">Back-end Developer (Java) & AI Engineer | Spring Boot · AI Agents · RAG · LLMs · MCP</h3>
+<h3 align="center">Back-end Developer & AI Engineer | Spring Boot · AI Agents · RAG · LLMs · MCP</h3>
 
 <p align="center">
   <a href="mailto:vinipenido312@gmail.com">vinipenido312@gmail.com</a> •
   <a href="https://www.linkedin.com/in/viniciushenrique">LinkedIn</a> •
   <a href="https://github.com/vinipenido">GitHub</a> •
   (35) 9 9831-9379 • Poços de Caldas, MG
-</p>
-
-<p align="center">
-  🟢 <b>Aberto a oportunidades</b> como Desenvolvedor Back-end Java ou Engenheiro de IA (remoto ou híbrido)
 </p>
 
 <br>
