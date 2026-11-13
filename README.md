@@ -1,5 +1,5 @@
 <h1 align="center">Vinicius Henrique</h1>
-<h3 align="center">Automation Developer & AI Engineer | · AI Agents · RAG · LLMs · MCP</h3>
+<h3 align="center">AI Engineer & Automation Developer | · AI Agents · RAG · LLMs · MCP · Machine Learning</h3>
 
 <p align="center">
   <a href="mailto:vinipenido312@gmail.com">vinipenido312@gmail.com</a> •
@@ -12,14 +12,15 @@
 
 ## 🧑‍💻 Sobre mim
 
-**Desenvolvedor de Automações** e **Engenheiro de IA**. Curso **Ciência da Computação na PUC Minas** (previsão de conclusão: dez/2027).
+**Engenheiro de IA** e **Desenvolvedor de Automações**. Curso **Ciência da Computação na PUC Minas** (previsão de conclusão: dez/2027).
 
-Há quase 2 anos coloco **agentes de IA em produção**. Já entreguei **mais de 30 agentes e sistemas multiagentes** para clientes B2B e B2C. Eles atendem consultórios médicos, operadoras de saúde e times de vendas pelo WhatsApp, 24h por dia, e processam texto, áudio, imagem e PDF.
+Há 2 anos coloco **agentes de IA em produção**. Já entreguei **mais de 30 agentes e sistemas multiagentes** para clientes B2B e B2C. Eles atendem consultórios médicos, operadoras de saúde e times de vendas pelo WhatsApp, 24h por dia, e processam texto, áudio, imagem e PDF.
 
 Participo do ciclo inteiro: levantamento de requisitos com o cliente, arquitetura, implementação, deploy, monitoramento e manutenção.
 
 **No que eu trabalho:**
 - 🤖 **IA aplicada:** RAG com busca vetorial, function calling / tool use, sistemas multiagentes, MCP, guardrails, memória de conversa, engenharia de prompt e otimização de tokens e custos
+- 📈 **Machine Learning:** PyTorch, séries temporais com LSTM e avaliação de modelos contra baselines (RMSE, acurácia direcional)
 - ☕ **Back-end:** APIs REST com Java, Spring Boot, Spring Security/JWT, Spring Data JPA, streaming via SSE e Spring AI / LangChain4j
 - 🔌 **Integrações:** OAuth 2.0, webhooks, paginação por cursor, rate limiting, retries com backoff exponencial, AWS Lambda e Puppeteer para sistemas sem API
 
@@ -38,13 +39,6 @@ Participo do ciclo inteiro: levantamento de requisitos com o cliente, arquitetur
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Bancos de Dados**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
 **IA & LLMs**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -54,12 +48,32 @@ Participo do ciclo inteiro: levantamento de requisitos com o cliente, arquitetur
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-5A45FF?style=for-the-badge&logoColor=white)
 
+**Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Bancos de Dados**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
+
 **Cloud, Automação & Ferramentas**
 
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -73,8 +87,8 @@ Participo do ciclo inteiro: levantamento de requisitos com o cliente, arquitetur
 Cada vez mais estudantes aprendem programação conversando com IA. Só que um LLM genérico costuma entregar a resposta pronta sem ensinar o raciocínio, pode inventar informação e esquece o que o aluno já perguntou. O CodeMentor resolve isso assim:
 
 - Agente com comportamento **didático**: guia o aluno pela explicação em vez de entregar o código pronto
-- **RAG** sobre uma base de livros técnicos (ingestão de PDFs e busca semântica com pgvector), para as respostas se basearem em conteúdo real
-- **Embeddings locais** com ONNX Runtime + AllMiniLM-L6-v2, sem custo de API de embeddings
+- **RAG** sobre uma base de livros técnicos (ingestão de PDFs em embeddings e busca semântica com pgvector), para as respostas se basearem em conteúdo real
+- **Embeddings locais** com ONNX Runtime + All-MiniLM-L6-v2, sem custo de API de embeddings
 - **Memória por aluno** e reformulação de perguntas de follow-up com base no histórico
 - Endpoints protegidos com JWT, documentação Swagger/OpenAPI e ambiente 100% Dockerizado
 
@@ -96,19 +110,6 @@ Em um chat com IA, esperar a resposta inteira do modelo deixa a experiência len
 
 ---
 
-### 🎬 Catálogo de Filmes: API REST segura
-> Java 25 · Spring Boot 4.1 · Spring Security · JWT · Spring Data JPA · PostgreSQL 16 · Swagger · Docker
-
-Uma API de catálogo aberta permite que qualquer pessoa altere os dados, e, sem filtros nem paginação, a consulta fica pesada conforme o catálogo cresce. Por isso a API foi construída com:
-
-- **JWT stateless** com Spring Security: cadastro e login públicos, e as 5 rotas de filmes protegidas
-- CRUD completo com **3 filtros combináveis** (título, gênero e ano), paginação e ordenação configurável
-- Tratamento centralizado de erros (401, 404, 500), documentação Swagger e PostgreSQL em container Docker
-
-🔗 [Repositório](https://github.com/vinipenido/catalogo-filmes)
-
----
-
 ### ⚙️ n8n Automations: portfólio de agentes e automações em produção
 > n8n · GPT-4.1 / GPT-5 · LangChain · MCP · Supabase pgvector · Redis · PostgreSQL · Python
 
@@ -121,6 +122,34 @@ As automações que construí para clientes rodavam em produção, dentro das in
 
 🔗 [Repositório](https://github.com/vinipenido/n8n-automations)
 
+---
+
+### 📈 Previsão de Preços de Ações com LSTM
+> Python · PyTorch · scikit-learn · pandas · NumPy · Matplotlib
+
+Modelos de previsão de preço costumam parecer bons até serem comparados com um baseline simples. Neste projeto o foco foi avaliar o modelo com rigor, em vez de só treinar:
+
+- Comparação do LSTM com um **baseline ingênuo**: a abordagem original era **2,3x pior** que ele
+- Correção de **vazamento de dados (data leakage)** no escalonamento das features
+- Mudança do alvo para **retornos diários**, reduzindo o erro em **55%** (RMSE de 9,77 para 4,38)
+- Uso da **acurácia direcional** (50%) para confirmar que não havia sinal preditivo
+
+🔗 [Repositório](https://github.com/vinipenido/stock-lstm-prediction)
+
+---
+
+### 🎬 Catálogo de Filmes: API REST segura
+> Java 25 · Spring Boot 4.1 · Spring Security · JWT · Spring Data JPA · PostgreSQL 16 · Swagger · Docker
+
+Uma API de catálogo aberta permite que qualquer pessoa altere os dados, e, sem filtros nem paginação, a consulta fica pesada conforme o catálogo cresce. Por isso a API foi construída com:
+
+- **JWT stateless** com Spring Security: cadastro e login públicos, e as 5 rotas de filmes protegidas
+- CRUD completo com **3 filtros combináveis** (título, gênero e ano), paginação e ordenação configurável
+- Tratamento centralizado de erros (401, 404, 500), documentação Swagger e PostgreSQL em container Docker
+
+🔗 [Repositório](https://github.com/vinipenido/catalogo-filmes)
+
+<br>
 
 ## 🏭 Sistemas que construí em produção
 
@@ -132,7 +161,7 @@ As automações que construí para clientes rodavam em produção, dentro das in
 Empresas que vendem pelo WhatsApp recebem leads a qualquer hora, e o atendimento manual não dava conta de responder, qualificar e acompanhar todos a tempo. Os clientes ainda mandam várias mensagens picadas, o que confunde um bot comum. A solução foi um sistema com três agentes trabalhando juntos:
 
 - **Agente SDR** (80 nós): qualifica leads, agenda reuniões no Google Calendar via MCP e atualiza o CRM
-- **Agente Vendedor** (92 nós): conduz a negociação, gera propostas e move o lead pelo funil usando 8 ferramentas de CRM
+- **Agente Vendedor** (92 nós): conduz a negociação, gera propostas e move o lead pelo funil usando 8 ferramentas de CRM sobre Airtable, deixando o modelo decidir as transições de etapa
 - **Agente Suporte** (66 nós): RAG sobre a base de conhecimento (OpenAI Embeddings + pgvector), com entrada de texto, áudio, imagem e PDF
 - **Buffer em Redis** que junta as mensagens fragmentadas antes de chamar o modelo
 - **Follow-up automático** em D+7, D+10 e D+15, orquestrado por sub-workflows agendados
@@ -188,25 +217,29 @@ Os representantes comerciais extraíam dados de vendas e estoque manualmente, em
 ## 💼 Experiência
 
 ### Analista Júnior de Implantação de Sistemas: Agentes de IA e Integrações
-**Pipelora** · fev 2026 – set 2026 · Poços de Caldas, MG
+**Pipelora** · fev 2026 – mai 2026 · Poços de Caldas, MG
 
 A Pipelora oferece uma plataforma de agentes de IA para automatizar operações de clientes. Esses agentes precisavam acessar sistemas internos, muitos legados e sem API, e por isso vários processos ainda dependiam de trabalho manual. Meu trabalho foi dar esse acesso aos agentes:
 
-- Funções serverless em **AWS Lambda + Node.js** conectando os agentes aos sistemas dos clientes
-- **Puppeteer** e web scraping para integrar aplicações sem API
-- Agentes estruturados com RAG, tool calling, guardrails e memória de conversa em PostgreSQL, validados com baterias de testes e casos de borda
-- Mais de **10 agentes em produção** (agendamento, vendas, SDR, qualificação de leads e suporte), com menos etapas manuais
+- Funções serverless em **AWS Lambda + Node.js** orquestrando agentes de IA nas operações dos clientes
+- **Puppeteer** e web scraping para integrar sistemas legados sem API documentada, liberando dados que antes exigiam digitação manual
+- Pipelines de integração de ponta a ponta com Web Services e APIs REST de terceiros, padronizando autenticação, paginação e tratamento de erros entre os projetos
+- Agentes estruturados com RAG, tool calling, guardrails e memória de conversa em PostgreSQL, validados antes de cada release com conversas de teste e casos de borda
+- Documentação técnica das integrações entregues e acompanhamento de cada projeto, do levantamento de requisitos até a entrega em produção
+- Mais de **10 agentes em produção** (agendamento, vendas, SDR, qualificação de leads, suporte técnico e atendimento multifluxo), com menos etapas manuais
 
-### Engenheiro de IA e Automações
+### Desenvolvedor de IA e Automação
 **TOP IA** · nov 2024 – fev 2026 · Poços de Caldas, MG
 
 A TOP IA desenvolve agentes de IA e automações para empresas B2B e B2C, com foco em atendimento via WhatsApp. Os clientes perdiam tempo com atendimento manual, tarefas repetitivas e sistemas que não se comunicavam, o que deixava a operação lenta e difícil de escalar. Meu papel foi construir os agentes e as integrações que resolviam isso:
 
-- Sistemas multiagentes de vendas, SDR e suporte rodando 24/7, com entrada multimodal
-- Pipelines de **RAG** com semantic chunking e busca vetorial no pgvector, com alucinações depuradas até o nível do chunk
+- Sistemas multiagentes de vendas, SDR e suporte rodando 24/7, com entrada multimodal (texto, áudio, imagem e PDF)
+- Pipelines de **RAG** com semantic chunking, embeddings da OpenAI e busca vetorial por threshold no Supabase pgvector, com alucinações depuradas até o nível do chunk
 - **Function calling e tool use** (OpenAI e Claude) para os agentes executarem ações reais: agendar, consultar e atualizar registros
-- Integrações resilientes com OAuth 2.0, webhooks, paginação por cursor, rate limiting e backoff exponencial
-- Infraestrutura própria com Docker, VPS (DigitalOcean, Hetzner) e EasyPanel
+- Integrações com WhatsApp Business API, Evolution API, Z-API, Chatwoot, Google Calendar e Google Sheets
+- Integrações resilientes com OAuth 2.0, webhooks bidirecionais, paginação por cursor, rate limiting e backoff exponencial
+- Lógica refatorada em sub-workflows reutilizáveis do n8n e Code Nodes em JavaScript, no lugar de implementações duplicadas por cliente
+- Infraestrutura própria com Docker, VPS (DigitalOcean, Hetzner) e EasyPanel, incluindo domínios, SSL, variáveis de ambiente e deploys, além de resolução de incidentes por análise de logs e causa raiz
 - Mais de **20 agentes de IA em produção**, automatizando atendimentos que antes eram manuais
 
 <br>
@@ -214,9 +247,9 @@ A TOP IA desenvolve agentes de IA e automações para empresas B2B e B2C, com fo
 ## 🎓 Formação & Certificações
 
 - **Bacharelado em Ciência da Computação**, PUC Minas (ago/2022 – previsão dez/2027)
-- Building with the Claude API · Claude Academy
-- Claude with Amazon Bedrock · Claude Academy
-- Claude with Google Cloud's Vertex AI · Claude Academy
+- Building with the Claude API · Claude Academy (Anthropic)
+- Claude with Amazon Bedrock · Claude Academy (Anthropic)
+- Claude with Google Cloud's Vertex AI · Claude Academy (Anthropic)
 - Bootcamp Java com Inteligência Artificial · Itaú e DIO
 
 ## 🌎 Idiomas
