@@ -1,5 +1,5 @@
 <h1 align="center">Vinicius Henrique</h1>
-<h3 align="center">Back-end Developer & AI Engineer | Spring Boot · AI Agents · RAG · LLMs · MCP</h3>
+<h3 align="center">Automation Developer & AI Engineer | Spring Boot · AI Agents · RAG · LLMs · MCP</h3>
 
 <p align="center">
   <a href="mailto:vinipenido312@gmail.com">vinipenido312@gmail.com</a> •
@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou desenvolvedor back-end **Java** e **Engenheiro de IA**. Curso **Ciência da Computação na PUC Minas** (previsão de conclusão: dez/2027).
+**Desenvolvedor de Automações** e **Engenheiro de IA**. Curso **Ciência da Computação na PUC Minas** (previsão de conclusão: dez/2027).
 
 Há quase 2 anos coloco **agentes de IA em produção**. Já entreguei **mais de 30 agentes e sistemas multiagentes** para clientes B2B e B2C. Eles atendem consultórios médicos, operadoras de saúde e times de vendas pelo WhatsApp, 24h por dia, e processam texto, áudio, imagem e PDF.
 
