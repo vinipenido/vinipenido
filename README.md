@@ -1,5 +1,5 @@
 <h1 align="center">Vinicius Henrique</h1>
-<h3 align="center">Automation Developer & AI Engineer | Spring Boot · AI Agents · RAG · LLMs · MCP</h3>
+<h3 align="center">Automation Developer & AI Engineer | · AI Agents · RAG · LLMs · MCP</h3>
 
 <p align="center">
   <a href="mailto:vinipenido312@gmail.com">vinipenido312@gmail.com</a> •
